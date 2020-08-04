@@ -8,8 +8,8 @@
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/-html-e34f26?logo=html5&logoColor=fff" alt="html badge" />
-  <img src="https://img.shields.io/badge/-sass-1572b6?logo=css3&logoColor=fff" alt="css badge" />
-  <img src="https://img.shields.io/badge/-js-f7df1e?logo=javascript&logoColor=000" alt="javascript badge" />
+  <img src="https://img.shields.io/badge/-css-1572b6?logo=css3&logoColor=fff" alt="css badge" />
+  <img src="https://img.shields.io/badge/-js-f7df1e?logo=javascript&logoColor=fff" alt="javascript badge" />
 </h3>
 
 ## About
